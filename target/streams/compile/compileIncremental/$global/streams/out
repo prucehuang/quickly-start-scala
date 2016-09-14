@@ -1,0 +1,140 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala, D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 15 sources: invalidated sources (15) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 15 Scala sources to D:\Inveno\code\git\quickly-start-scala\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2709060e, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_91\lib\resources.jar;C:\Program Files\Java\jre1.8.0_91\lib\rt.jar;C:\Program Files\Java\jre1.8.0_91\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_91\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_91\lib\jce.jar;C:\Program Files\Java\jre1.8.0_91\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_91\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_91\classes;C:\Users\dell\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\Inveno\code\git\quickly-start-scala\target\scala-2.11\classes;C:\Users\dell\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[33mwarn[0m] [0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.462084302 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, fullName, synchronized, setAge, $isInstanceOf, age_=, main, age, notifyAll, Persion, isInstanceOf, lastName, firstName, <init>, ==, clone, toString, !=, Class, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\function\Match.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, Match, ne, fibonacci, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FuncReturnType.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, FuncReturnType, test, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, max2, returnVoid, main, notifyAll, isInstanceOf, ==, returnUnit, clone, toString, !=, greet, getClass, ne, add, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Timer.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	timeFiles, notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, getPreTimeIndex, $isInstanceOf, HOUR_SECONDE, main, getCurrTimeIndex, notifyAll, isInstanceOf, oncePerSecond, Timer, ==, clone, getTimeIndexFormat, toString, !=, getClass, ne, getTimeIndexFormat$default$2, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\ScanerFile.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Traits.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, ForEachAble, Traits, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, iterator, notifyAll, isInstanceOf, JsonAble, ==, clone, foreach, toJson, $init$, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Class2.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, Class2, equals, close1, asInstanceOf, synchronized, $isInstanceOf, withClose, main, Connection, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, close, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Foreach.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, foreachArr, notifyAll, isInstanceOf, ==, clone, Foreach, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\Foreach.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Foreach, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Currying.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, Currying, wait, add3, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, add1, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, add, add2, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\helloworld\HelloWorld.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, HelloWorld, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\structure\FuncReturnType.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, FuncReturnType, test, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, max2, returnVoid, main, notifyAll, isInstanceOf, ==, returnUnit, clone, toString, !=, greet, getClass, ne, add, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\FunctionArgs.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, log2, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, log1, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, FunctionArgs, ne, eq, log, logEnable, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Helloworld.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Helloworld, notify, addone, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, main1, toString, !=, getClass, squareVal, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The D:\Inveno\code\git\quickly-start-scala\src\main\scala\com\gitlab\huanghaifeng\basis\Timer.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	timeFiles, notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, oncePerSecond, Timer, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
