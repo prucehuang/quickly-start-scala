@@ -1,3 +1,9 @@
 .DS_Store
 /target/
 /project/target/
+/bin/
+.cache-main
+/.idea/
+.project
+quickly-start-scala.iml
+
